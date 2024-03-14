@@ -1,0 +1,22 @@
+{
+  "name": "minimal-ts-debug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --exec 'ts-node' $@"
+  },
+  "keywords": [],
+  "author": "mshlz",
+  "license": "UNLICENSED",
+  "volta": {
+    "node": "20.11.1",
+    "yarn": "4.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "20",
+    "nodemon": "3.1.0",
+    "ts-node": "10.9.2",
+    "typescript": "5.4.2"
+  }
+}
