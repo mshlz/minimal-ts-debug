@@ -6,7 +6,10 @@
 # install volta
 curl https://get.volta.sh | bash
 volta install node@20.11.0
+```
 
+
+```bash
 # install dependencies
 yarn
 ```
